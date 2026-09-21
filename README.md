@@ -1,4 +1,4 @@
-# SubScope - A SUBDOMAIN ENUMERATOR | RECONAISSANCE TOOL 
+# SubScope 
 
 A Python-based passive subdomain enumeration tool that discovers subdomains using public sources.
 
