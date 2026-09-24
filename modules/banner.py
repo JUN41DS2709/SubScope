@@ -17,7 +17,7 @@ def show_banner():
         print("\033[96m" + line.center(terminal_width) + "\033[0m")
 
     # Description
-    description = "All in One Passive Subdomain Enumeration Tool"
+    description = "Passive & Active Subdomain Enumeration Tool"
     print("\033[96m" + description.center(terminal_width) + "\033[0m")
 
     # Author - positioned toward the right of the centered description
@@ -32,4 +32,4 @@ def show_banner():
 
     print("\033[92m" + " " * author_position + author + "\033[0m")
 
-
+show_banner()

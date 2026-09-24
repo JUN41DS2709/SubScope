@@ -16,12 +16,6 @@ parser.add_argument("-v" ,
         action="version",
         version="%(prog)s v1.0")
 
-parser.add_argument(
-    "-w",
-    help="Specify wordlist",
-    metavar="wordlist",
-    dest="wordlist"
-)
 
 parser.add_argument("-o",
         help="Save output in a txt file",
